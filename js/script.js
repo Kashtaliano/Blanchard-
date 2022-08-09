@@ -476,7 +476,7 @@ function init() {
     {},
     {
       iconLayout: "default#image",
-      iconImageHref: "/img/contacts/map-marker.svg",
+      iconImageHref: "../img/contacts/map-marker.svg",
       iconImageSize: [20, 20],
     }
   );
