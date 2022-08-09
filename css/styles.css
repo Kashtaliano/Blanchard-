@@ -2442,7 +2442,7 @@ input[class="header__search"]:focus::-webkit-input-placeholder {
   outline: 2px solid var(--purple);
   border-radius: 100px;
   width: 103%;
-  height: 120%;
+  height: 118%;
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
 }
